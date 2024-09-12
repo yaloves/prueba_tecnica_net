@@ -1,0 +1,12 @@
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\bin\Debug\net8.0\Core.deps.json
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\bin\Debug\net8.0\Core.dll
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\bin\Debug\net8.0\Core.pdb
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.dll
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\Core.pdb
+D:\Desarrollo\PruebasTecnicas\prueba_tecnica_net\WebAPI\Core\obj\Debug\net8.0\ref\Core.dll
